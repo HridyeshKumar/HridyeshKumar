@@ -29,4 +29,4 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 -LinkedIn Profile:hridyesh-kumar-10a52028a
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HridyeshKumar&show_icons=true&theme=radical)
