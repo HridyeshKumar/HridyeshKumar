@@ -26,7 +26,7 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 ## 📫 How to reach me
 
 -E-mail: hkumar0951@gmail.com
--LinkedIn Profile:hridyesh-kumar-10a52028a
+-LinkedIn Profile: hridyesh-kumar-10a52028a
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HridyeshKumar&show_icons=true&theme=radical)
