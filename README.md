@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, MY NAME IS HRIDYESH KUMAR! 👋
 
-I'm a [Your Role/Profession], passionate about [Your Interests/Expertise]. Welcome to my GitHub profile!
+I'm a STUDENT, passionate about learning new programming languages and tools. Welcome to my GitHub profile!
 
 ## 🔭 I’m currently working on
 
@@ -25,9 +25,8 @@ I'm a [Your Role/Profession], passionate about [Your Interests/Expertise]. Welco
 
 ## 📫 How to reach me
 
-- hkumar0951@gmail.com
-- 
-- [Your LinkedIn Profile]
+-E-mail: hkumar0951@gmail.com
+-LinkedIn Profile:hridyesh-kumar-10a52028a
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
