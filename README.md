@@ -4,10 +4,6 @@ I'm a STUDENT, passionate about learning new programming languages and tools. We
 
 ## 🔭 I’m currently working on
 
-- 
-- 
-- 
-
 ## 🌱 I’m currently learning
 
 ## 👯 I’m looking to collaborate on
