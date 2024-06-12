@@ -39,15 +39,31 @@
   </samp>
 </p>
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HridyeshKumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
-
-###
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HridyeshKumar&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="HridyeshKumar" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HridyeshKumar&" alt="HridyeshKumar" /></p>
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=HridyeshKumar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=HridyeshKumar&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridyeshKumar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=HridyeshKumar&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg/?username=HridyeshKumar&" alt="snake"/>
+</p>
+
  ###
 
 <h2 align="center">Connect with Me</h2>
