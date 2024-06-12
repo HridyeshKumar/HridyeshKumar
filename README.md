@@ -45,7 +45,9 @@
 ###
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HridyeshKumar&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="HridyeshKumar" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HridyeshKumar&" alt="HridyeshKumar" /></p>
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
  ###
 
 <h2 align="center">Connect with Me</h2>
