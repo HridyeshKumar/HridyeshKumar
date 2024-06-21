@@ -75,7 +75,6 @@
   <a href="https://www.instagram.com/hridyesh61/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-   
 </p>
 
 <p align="center">
