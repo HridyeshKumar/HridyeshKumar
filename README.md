@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm HRIDYESH KUMAR PRAJAPATI!</h1>
 <p align="center">
   <samp>
-    🚀 Student of Btech (Hons) in CSE AI | 💡 Passionate Learner | 🌍 Bhilai, Chattisgarh
+    🚀 Student of Btech (Hons) in CSE AI Department| 💡 Passionate Learner | 🌍 Bhilai, Chattisgarh
   </samp>
 </p>
 
@@ -18,7 +18,7 @@
 <p align="center">
   <samp>
     🔭 I’m currently studying Btech (Hons) in CSE AI<br>
-    🌱 I’m currently learning C++, Data Structures, Python for Data Science<br>
+    🌱 I’m currently learning C++, Data Structures, Python for Data Science,JavaScript<br>
     💬 Ask me about Python, C, C++, Microsoft Excel, Word<br>
     ⚡ Looking for collaboration opportunities<br>
   </samp>
