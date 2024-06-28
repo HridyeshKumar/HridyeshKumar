@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi there, I'm HRIDYESH KUMAR PRAJAPATI!</h1>
+
 <p align="center">
   <samp>
     🚀 Student of Btech (Hons) in CSE AI Department| 💡 Passionate Learner | 🌍 Bhilai, Chattisgarh
