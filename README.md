@@ -62,7 +62,7 @@
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HridyeshKumar&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /> -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=HridyeshKumar&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </p>
 
  ###
