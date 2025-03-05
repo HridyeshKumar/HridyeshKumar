@@ -19,8 +19,8 @@
 <p align="center">
   <samp>
     🔭 I’m currently studying Btech (Hons) in CSE AI<br>
-    🌱 I’m currently learning C++, Data Structures, Python for Data Science, JavaScript, OOPS, SQL, File & Error Handling and various Python libraries.<br>
-    💬 Ask me about Python, C, C++, Microsoft Excel, Word, MATLAB, React,JavaScript <br>
+    🌱 I’m currently learning Data Structures, JavaScript, SQL, Python for Data Science and various Python libraries and interesting topics like Artifical Intelligence, Machine Learning, Blockchain.<br>
+    💬 Ask me about Python, C, C++,Python,R, Microsoft Excel, Word, MATLAB, React,JavaScript <br>
     ⚡ Looking for collaboration opportunities<br>
   </samp>
 </p>
@@ -37,6 +37,8 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/communication.png" alt="Communication">
+    <img src="https://img.icons8.com/?size=48&id=VdbUaq1ZLjT2&format=png&color=000000" alt="React">
+    <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000" alt="R">
   </samp>
 </p>
 ###
